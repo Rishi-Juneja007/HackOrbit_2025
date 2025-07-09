@@ -42,3 +42,51 @@ Remaining Features are to be Added...
 
 Purpose
 This system aims to enhance personal safety by providing a proactive monitoring solution. By combining real-time tracking with intelligent risk assessment and automated alerts, it offers peace of mind and enables quicker response in potentially critical situations.
+
+
+
+Table of Contents
+
+ [About the Project]
+ [Features]
+ [Getting Started]
+ [Contact]
+
+*About the Project
+
+Domain: Artificial Intelligence and Machine Learning
+
+Problem Statement: Real Time Danger Detection for Safety of Women Travellers
+
+This project aims to enhance personal safety by providing a proactive monitoring solution. By combining real-time tracking with intelligent risk assessment and alerts, it offers peace of mind and enables quicker response in potentially critical situations.
+
+*Features
+
+ADDED
+
+1. GEOLOCATION DATA
+GPS (Global Positioning System)
+
+2. CRIME DATA SOURCES
+Public Government Datasets
+(e.g., NCRB India, Kaggle)
+Delhi, Mumbai, Chennai Lucknow, Haryana
+
+3. EMERGENCY NUMBERS
+
+4. DETECTION OF THE CURRENT PLACE
+(Safe or Unsafe)
+
+5. SAFE SCORE
+(Based on Safety Factors like historical data, crowd density)
+
+6. HEATMAP
+
+FURTHER ENHANCEMENT 
+
+7. COMMUNITY FEEDBACK
+
+8. EMERGENCY ALERTS
+(To Desired Number)
+
+*Getting Started
